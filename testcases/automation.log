@@ -1,0 +1,9 @@
+2023-03-03 11:24:01 - INFO - TestLogin : Nomor ponsel atau kata sandi salah.
+2023-03-03 11:38:55 - INFO - HomePage : Click login icon
+2023-03-03 11:39:01 - INFO - LoginPage : Typed phone number
+2023-03-03 11:39:01 - INFO - LoginPage : Typed password into password fild
+2023-03-03 11:39:04 - INFO - TestLogin : Nomor ponsel atau kata sandi salah.
+2023-03-03 11:41:59 - INFO - HomePage : Click login icon
+2023-03-03 11:42:02 - INFO - LoginPage : Typed phone number
+2023-03-03 11:42:02 - INFO - LoginPage : Typed password into password fild
+2023-03-03 11:42:03 - WARNING - LoginPage : error message is Nomor ponsel atau kata sandi salah.

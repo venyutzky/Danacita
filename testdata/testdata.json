@@ -1,0 +1,7 @@
+{
+    "testdata1": {
+        "phone_number" : "081378119248",
+        "password" : "Testing123",
+        "error_message": "Nomor ponsel atau kata sandi salah."
+    }
+}
